@@ -1,0 +1,1 @@
+# 1688 MCP Server\n\nCurrent skeleton includes MCP tools for product search, detail, SKU and supplier queries.\n\nThe Alibaba API adapter intentionally requires an authorized integration before it can return real 1688 data.\n
